@@ -1,0 +1,1987 @@
+.mediaViewInfo {
+	--web-view-name: Selected Works #2 - Spectrum Gamers;
+	--web-view-id: Selected_Works_2_-_Spectrum_Gamers;
+	--web-scale-on-resize: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Selected_Works_2_-_Spectrum_Gamers;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+@keyframes  {
+
+
+}
+.Selected_Works_2_-_Spectrum_Gamers_Class {
+	position: absolute;
+	width: 1800px;
+	height: 6471px;
+	background-color: rgba(8,12,43,1);
+	overflow: hidden;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: beezer.html;
+	cursor: pointer;
+	--web-view-name: Selected Works #2 - Spectrum Gamers;
+	--web-view-id: Selected_Works_2_-_Spectrum_Gamers;
+	--web-scale-on-resize: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+.bgy_Class {
+	fill: rgba(255,230,122,1);
+}
+.bgy {
+	position: absolute;
+	overflow: visible;
+	width: 1565px;
+	height: 840px;
+	left: 135px;
+	top: 686px;
+}
+.bgz_Class {
+	fill: rgba(247,252,247,1);
+}
+.bgz {
+	position: absolute;
+	overflow: visible;
+	width: 1565px;
+	height: 839px;
+	left: 100px;
+	top: 652px;
+}
+.bha_Class {
+	position: absolute;
+	width: 1447.732px;
+	height: 771.142px;
+	left: 176.134px;
+	top: 702px;
+	overflow: visible;
+}
+.bhb_Class {
+	filter: blur(5px);
+	fill: rgba(180,180,180,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bhb {
+	position: absolute;
+	overflow: visible;
+	width: 209.483px;
+	height: 40.457px;
+	left: 1263.656px;
+	top: 754.913px;
+}
+.bhc_Class {
+	filter: blur(5px);
+	fill: rgba(180,180,180,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bhc {
+	position: absolute;
+	overflow: visible;
+	width: 420.702px;
+	height: 47px;
+	left: 0px;
+	top: 754.142px;
+}
+.bhd_Class {
+	filter: blur(5px);
+	fill: rgba(180,180,180,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bhd {
+	position: absolute;
+	overflow: visible;
+	width: 1347.528px;
+	height: 72px;
+	left: 130.204px;
+	top: 654.142px;
+}
+.bhe_Class {
+	position: absolute;
+	width: 1447.732px;
+	height: 760.142px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bhf_Class {
+	position: absolute;
+	width: 1211.5px;
+	height: 675.446px;
+	left: 175.172px;
+	top: 0px;
+	overflow: visible;
+}
+.bhg_Class {
+	position: absolute;
+	width: 1211.5px;
+	height: 675.446px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bhh_Class {
+	position: absolute;
+	width: 913.132px;
+	height: 583.437px;
+	left: 149.185px;
+	top: 40.492px;
+	overflow: visible;
+}
+.bhi_Class {
+	position: absolute;
+	width: 390.159px;
+	height: 509.375px;
+	left: 0px;
+	top: 250.767px;
+	overflow: visible;
+}
+.bhj_Class {
+	position: absolute;
+	width: 361.181px;
+	height: 484.344px;
+	left: 14.489px;
+	top: 14.685px;
+	overflow: visible;
+}
+.bhk_Class {
+	position: absolute;
+	width: 390.159px;
+	height: 509.375px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bhl_Class {
+	position: absolute;
+	width: 189.923px;
+	height: 395.236px;
+	left: 1257.81px;
+	top: 364.739px;
+	overflow: visible;
+}
+.bhm_Class {
+	fill: rgba(255,255,255,1);
+}
+.bhm {
+	position: absolute;
+	overflow: visible;
+	width: 173.521px;
+	height: 53.524px;
+	left: 6.906px;
+	top: 7.77px;
+}
+.bhn_Class {
+	position: absolute;
+	width: 176.111px;
+	height: 382.436px;
+	left: 5.18px;
+	top: 6.906px;
+	overflow: visible;
+}
+.bho_Class {
+	position: absolute;
+	width: 189.923px;
+	height: 395.236px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bhp_Class {
+	position: absolute;
+	width: 138.989px;
+	height: 9.496px;
+	left: 24.172px;
+	top: 17.266px;
+	overflow: visible;
+}
+.bhq_Class {
+	position: absolute;
+	width: 32.805px;
+	height: 5.678px;
+	left: 106.184px;
+	top: 1.727px;
+	overflow: visible;
+}
+.bhr_Class {
+	position: absolute;
+	width: 21.582px;
+	height: 9.496px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bhs_Class {
+	position: absolute;
+	width: 261.123px;
+	height: 80.125px;
+	left: 146px;
+	top: 702.285px;
+	overflow: visible;
+}
+.bht_Class {
+	position: absolute;
+	width: 261.123px;
+	height: 80.125px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bhu_Class {
+	border: 0;
+	left: 348px;
+	top: 343px;
+	position: absolute;
+	overflow: visible;
+	width: 1025px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Krona One;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	color: rgba(247,252,247,1);
+}
+.bhv_Class {
+	border: 0;
+	left: 244px;
+	top: 212px;
+	position: absolute;
+	overflow: visible;
+	width: 601px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Krona One;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 86px;
+	color: rgba(247,252,247,1);
+}
+.bhw_Class {
+	border: 0;
+	left: 100px;
+	top: 410px;
+	position: absolute;
+	overflow: visible;
+	width: 1566px;
+	height: 192px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(247,252,247,1);
+}
+.bhx_Class {
+	border: 0;
+	left: 189px;
+	top: 3043px;
+	position: absolute;
+	overflow: visible;
+	width: 393px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Krona One;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	color: rgba(247,252,247,1);
+}
+.bhy_Class {
+	border: 0;
+	left: 166px;
+	top: 1589px;
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Krona One;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	color: rgba(247,252,247,1);
+}
+.bhz_Class {
+	border: 0;
+	left: 773px;
+	top: 1589px;
+	position: absolute;
+	overflow: visible;
+	width: 225px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Krona One;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	color: rgba(247,252,247,1);
+}
+.bia_Class {
+	fill: rgba(67,52,183,1);
+}
+.bia {
+	position: absolute;
+	overflow: visible;
+	width: 1565px;
+	height: 883px;
+	left: 135px;
+	top: 4068px;
+}
+.bib_Class {
+	fill: rgba(247,252,247,1);
+}
+.bib {
+	position: absolute;
+	overflow: visible;
+	width: 1565px;
+	height: 883px;
+	left: 100px;
+	top: 4033px;
+}
+.bic_Class {
+	border: 0;
+	left: 150px;
+	top: 4083px;
+	position: absolute;
+	overflow: visible;
+	width: 1466px;
+	height: 231px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(8,12,43,1);
+}
+.bid_Class {
+	border: 0;
+	left: 150px;
+	top: 4742px;
+	position: absolute;
+	overflow: visible;
+	width: 1466px;
+	height: 124px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(8,12,43,1);
+}
+.bie_Class {
+	border: 0;
+	left: 150px;
+	top: 4344px;
+	position: absolute;
+	overflow: visible;
+	width: 1466px;
+	height: 368px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(8,12,43,1);
+}
+.bif_Class {
+	border: 0;
+	left: 212px;
+	top: 3946px;
+	position: absolute;
+	overflow: visible;
+	width: 471px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Krona One;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	color: rgba(247,252,247,1);
+}
+.big_Class {
+	fill: rgba(67,52,183,1);
+}
+.big {
+	position: absolute;
+	overflow: visible;
+	width: 531px;
+	height: 611px;
+	left: 135px;
+	top: 1710px;
+}
+.bih_Class {
+	fill: rgba(247,252,247,1);
+}
+.bih {
+	position: absolute;
+	overflow: visible;
+	width: 531px;
+	height: 611px;
+	left: 100px;
+	top: 1676px;
+}
+.bii_Class {
+	border: 0;
+	left: 150px;
+	top: 1726px;
+	position: absolute;
+	overflow: hidden;
+	width: 432px;
+	height: 43px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(8,12,43,1);
+}
+.bij_Class {
+	border: 0;
+	left: 150px;
+	top: 1799px;
+	position: absolute;
+	overflow: hidden;
+	width: 439px;
+	height: 40px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(8,12,43,1);
+}
+.bik_Class {
+	position: absolute;
+	width: 431px;
+	height: 368px;
+	left: 150px;
+	top: 1869px;
+	overflow: visible;
+}
+.bil_Class {
+	border: 0;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 432px;
+	height: 40px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(8,12,43,1);
+}
+.bim_Class {
+	position: absolute;
+	width: 431px;
+	height: 49px;
+	left: 0px;
+	top: 178px;
+	overflow: visible;
+}
+.bin_Class {
+	border: 0;
+	left: 30px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 49px;
+	line-height: 22.780000686645508px;
+	margin-top: -0.3900003433227539px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(8,12,43,1);
+}
+.bio_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	display: none;
+	overflow: visible;
+}
+.bip_Class {
+	fill: rgba(255,255,255,0);
+}
+.bip {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.biq_Class {
+	fill: rgba(1,113,235,1);
+}
+.biq {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 8px;
+	top: 8px;
+}
+.bir_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bis_Class {
+	fill: rgba(255,255,255,0);
+}
+.bis {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.bit_Class {
+	fill: rgba(8,12,43,1);
+}
+.bit {
+	position: absolute;
+	overflow: visible;
+	width: 6px;
+	height: 6px;
+	left: 7px;
+	top: 7px;
+}
+.biu_Class {
+	position: absolute;
+	width: 431px;
+	height: 49px;
+	left: 0px;
+	top: 237px;
+	overflow: visible;
+}
+.biv_Class {
+	border: 0;
+	left: 30px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 49px;
+	line-height: 22.780000686645508px;
+	margin-top: -0.3900003433227539px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(8,12,43,1);
+}
+.biw_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	display: none;
+	overflow: visible;
+}
+.bix_Class {
+	fill: rgba(255,255,255,0);
+}
+.bix {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.biy_Class {
+	fill: rgba(1,113,235,1);
+}
+.biy {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 8px;
+	top: 8px;
+}
+.biz_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bja_Class {
+	fill: rgba(255,255,255,0);
+}
+.bja {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.bjb_Class {
+	fill: rgba(8,12,43,1);
+}
+.bjb {
+	position: absolute;
+	overflow: visible;
+	width: 6px;
+	height: 6px;
+	left: 7px;
+	top: 7px;
+}
+.bjc_Class {
+	position: absolute;
+	width: 431px;
+	height: 72px;
+	left: 0px;
+	top: 296px;
+	overflow: visible;
+}
+.bjd_Class {
+	border: 0;
+	left: 30px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 72px;
+	line-height: 22.780000686645508px;
+	margin-top: -0.3900003433227539px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(8,12,43,1);
+}
+.bje_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	display: none;
+	overflow: visible;
+}
+.bjf_Class {
+	fill: rgba(255,255,255,0);
+}
+.bjf {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.bjg_Class {
+	fill: rgba(1,113,235,1);
+}
+.bjg {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 8px;
+	top: 8px;
+}
+.bjh_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bji_Class {
+	fill: rgba(255,255,255,0);
+}
+.bji {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.bjj_Class {
+	fill: rgba(8,12,43,1);
+}
+.bjj {
+	position: absolute;
+	overflow: visible;
+	width: 6px;
+	height: 6px;
+	left: 7px;
+	top: 7px;
+}
+.bjk_Class {
+	position: absolute;
+	width: 431px;
+	height: 49px;
+	left: 0px;
+	top: 119px;
+	overflow: visible;
+}
+.bjl_Class {
+	border: 0;
+	left: 30px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 49px;
+	line-height: 22.780000686645508px;
+	margin-top: -0.3900003433227539px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(8,12,43,1);
+}
+.bjm_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	display: none;
+	overflow: visible;
+}
+.bjn_Class {
+	fill: rgba(255,255,255,0);
+}
+.bjn {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.bjo_Class {
+	fill: rgba(1,113,235,1);
+}
+.bjo {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 8px;
+	top: 8px;
+}
+.bjp_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bjq_Class {
+	fill: rgba(255,255,255,0);
+}
+.bjq {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.bjr_Class {
+	fill: rgba(8,12,43,1);
+}
+.bjr {
+	position: absolute;
+	overflow: visible;
+	width: 6px;
+	height: 6px;
+	left: 7px;
+	top: 7px;
+}
+.bjs_Class {
+	position: absolute;
+	width: 431px;
+	height: 49px;
+	left: 0px;
+	top: 60px;
+	overflow: visible;
+}
+.bjt_Class {
+	border: 0;
+	left: 30px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 49px;
+	line-height: 22.780000686645508px;
+	margin-top: -0.3900003433227539px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(8,12,43,1);
+}
+.bju_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	display: none;
+	overflow: visible;
+}
+.bjv_Class {
+	fill: rgba(255,255,255,0);
+}
+.bjv {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.bjw_Class {
+	fill: rgba(1,113,235,1);
+}
+.bjw {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 8px;
+	top: 8px;
+}
+.bjx_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bjy_Class {
+	fill: rgba(255,255,255,0);
+}
+.bjy {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.bjz_Class {
+	fill: rgba(8,12,43,1);
+}
+.bjz {
+	position: absolute;
+	overflow: visible;
+	width: 6px;
+	height: 6px;
+	left: 7px;
+	top: 7px;
+}
+.bka_Class {
+	border: 0;
+	left: 237px;
+	top: 5014px;
+	position: absolute;
+	overflow: visible;
+	width: 543px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Krona One;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	color: rgba(247,252,247,1);
+}
+.bkb_Class {
+	fill: rgba(247,252,247,1);
+}
+.bkb {
+	position: absolute;
+	overflow: visible;
+	width: 1565px;
+	height: 664px;
+	left: 135px;
+	top: 3165.045px;
+}
+.bkc_Class {
+	fill: rgba(255,230,122,1);
+}
+.bkc {
+	overflow: visible;
+	position: absolute;
+	width: 1565px;
+	height: 664px;
+	left: 100px;
+	top: 3130px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bkd_Class {
+	fill: rgba(8,12,43,1);
+}
+.bkd {
+	overflow: visible;
+	position: absolute;
+	width: 129.602px;
+	height: 43.39px;
+	left: 399.682px;
+	top: 3556.44px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bke_Class {
+	fill: rgba(8,12,43,1);
+}
+.bke {
+	overflow: visible;
+	position: absolute;
+	width: 115.72px;
+	height: 43.456px;
+	left: 616.833px;
+	top: 3556.44px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bkf_Class {
+	fill: rgba(8,12,43,1);
+}
+.bkf {
+	overflow: visible;
+	position: absolute;
+	width: 146.454px;
+	height: 43.39px;
+	left: 811.136px;
+	top: 3556.44px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bkg_Class {
+	fill: rgba(8,12,43,1);
+}
+.bkg {
+	overflow: visible;
+	position: absolute;
+	width: 120.846px;
+	height: 43.016px;
+	left: 1032.709px;
+	top: 3556.814px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bkh_Class {
+	fill: rgba(8,12,43,1);
+}
+.bkh {
+	overflow: visible;
+	position: absolute;
+	width: 111.21px;
+	height: 43.016px;
+	left: 1454.614px;
+	top: 3556.814px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bki_Class {
+	position: absolute;
+	width: 1387.418px;
+	height: 187.186px;
+	left: 179.582px;
+	top: 3556.814px;
+	overflow: visible;
+}
+.bkj_Class {
+	fill: rgba(8,12,43,1);
+}
+.bkj {
+	overflow: visible;
+	position: absolute;
+	width: 156.024px;
+	height: 46.91px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bkk_Class {
+	fill: rgba(8,12,43,1);
+}
+.bkk {
+	overflow: visible;
+	position: absolute;
+	width: 91.806px;
+	height: 46.91px;
+	left: 1076.878px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bkl_Class {
+	position: absolute;
+	width: 1372px;
+	height: 116px;
+	left: 15.418px;
+	top: 71.186px;
+	overflow: visible;
+}
+.bkm_Class {
+	position: absolute;
+	width: 113px;
+	height: 109px;
+	left: 213px;
+	top: 6.522px;
+	overflow: visible;
+}
+.bkn_Class {
+	filter: blur(5px);
+	fill: rgba(8,12,43,1);
+}
+.bkn {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 139px;
+	left: 0px;
+	top: 0px;
+}
+.bko_Class {
+	position: absolute;
+	width: 113px;
+	height: 109px;
+	left: 422px;
+	top: 6.522px;
+	overflow: visible;
+}
+.bkp_Class {
+	filter: blur(5px);
+	fill: rgba(8,12,43,1);
+}
+.bkp {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 139px;
+	left: 0px;
+	top: 0px;
+}
+.bkq_Class {
+	position: absolute;
+	width: 113px;
+	height: 109px;
+	left: 841px;
+	top: 6.522px;
+	overflow: visible;
+}
+.bkr_Class {
+	filter: blur(5px);
+	fill: rgba(8,12,43,1);
+}
+.bkr {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 139px;
+	left: 0px;
+	top: 0px;
+}
+.bks_Class {
+	position: absolute;
+	width: 113px;
+	height: 109px;
+	left: 1050px;
+	top: 6.522px;
+	overflow: visible;
+}
+.bkt_Class {
+	filter: blur(5px);
+	fill: rgba(8,12,43,1);
+}
+.bkt {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 139px;
+	left: 0px;
+	top: 0px;
+}
+.bku_Class {
+	position: absolute;
+	width: 119px;
+	height: 115px;
+	left: 210px;
+	top: 1px;
+	overflow: visible;
+}
+.bkv_Class {
+	position: absolute;
+	width: 113px;
+	height: 109px;
+	left: 1259px;
+	top: 6.522px;
+	overflow: visible;
+}
+.bkw_Class {
+	filter: blur(5px);
+	fill: rgba(8,12,43,1);
+}
+.bkw {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 139px;
+	left: 0px;
+	top: 0px;
+}
+.bkx_Class {
+	position: absolute;
+	width: 29.995px;
+	height: 18.292px;
+	left: 1192.999px;
+	top: 49.054px;
+	overflow: visible;
+}
+.bky_Class {
+	fill: rgba(8,12,43,1);
+}
+.bky {
+	overflow: visible;
+	position: absolute;
+	width: 18.292px;
+	height: 16.168px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,12.7655,1.0622) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.bkz_Class {
+	fill: rgba(8,12,43,1);
+}
+.bkz {
+	position: absolute;
+	overflow: visible;
+	width: 22.047px;
+	height: 7.953px;
+	left: 0px;
+	top: 5.169px;
+}
+.bla_Class {
+	position: absolute;
+	width: 119px;
+	height: 115px;
+	left: 1253px;
+	top: 0.522px;
+	overflow: visible;
+}
+.blb_Class {
+	position: absolute;
+	width: 119px;
+	height: 115px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.blc_Class {
+	position: absolute;
+	width: 119px;
+	height: 115px;
+	left: 1044px;
+	top: 0.522px;
+	overflow: visible;
+}
+.bld_Class {
+	position: absolute;
+	width: 119px;
+	height: 115px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.ble_Class {
+	position: absolute;
+	width: 113px;
+	height: 109px;
+	left: 632px;
+	top: 6.522px;
+	overflow: visible;
+}
+.blf_Class {
+	filter: blur(5px);
+	fill: rgba(8,12,43,1);
+}
+.blf {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 139px;
+	left: 0px;
+	top: 0px;
+}
+.blg_Class {
+	position: absolute;
+	width: 113px;
+	height: 109px;
+	left: 5px;
+	top: 6.522px;
+	overflow: visible;
+}
+.blh_Class {
+	filter: blur(5px);
+	fill: rgba(8,12,43,1);
+}
+.blh {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 139px;
+	left: 0px;
+	top: 0px;
+}
+.bli_Class {
+	position: absolute;
+	width: 119px;
+	height: 115px;
+	left: 0px;
+	top: 0.522px;
+	overflow: visible;
+}
+.blj_Class {
+	position: absolute;
+	width: 119px;
+	height: 115px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.blk_Class {
+	position: absolute;
+	width: 29.995px;
+	height: 18.292px;
+	left: 984.006px;
+	top: 49.054px;
+	overflow: visible;
+}
+.bll_Class {
+	fill: rgba(8,12,43,1);
+}
+.bll {
+	overflow: visible;
+	position: absolute;
+	width: 18.292px;
+	height: 16.168px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,12.7655,1.0622) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.blm_Class {
+	fill: rgba(8,12,43,1);
+}
+.blm {
+	position: absolute;
+	overflow: visible;
+	width: 22.047px;
+	height: 7.953px;
+	left: 0px;
+	top: 5.169px;
+}
+.bln_Class {
+	position: absolute;
+	width: 29.995px;
+	height: 18.292px;
+	left: 775px;
+	top: 49.054px;
+	overflow: visible;
+}
+.blo_Class {
+	fill: rgba(8,12,43,1);
+}
+.blo {
+	overflow: visible;
+	position: absolute;
+	width: 18.292px;
+	height: 16.168px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,12.7655,1.0622) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.blp_Class {
+	fill: rgba(8,12,43,1);
+}
+.blp {
+	position: absolute;
+	overflow: visible;
+	width: 22.047px;
+	height: 7.953px;
+	left: 0px;
+	top: 5.169px;
+}
+.blq_Class {
+	position: absolute;
+	width: 29.995px;
+	height: 18.292px;
+	left: 566.006px;
+	top: 49.054px;
+	overflow: visible;
+}
+.blr_Class {
+	fill: rgba(8,12,43,1);
+}
+.blr {
+	overflow: visible;
+	position: absolute;
+	width: 18.292px;
+	height: 16.168px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,12.7655,1.0622) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.bls_Class {
+	fill: rgba(8,12,43,1);
+}
+.bls {
+	position: absolute;
+	overflow: visible;
+	width: 22.047px;
+	height: 7.953px;
+	left: 0px;
+	top: 5.169px;
+}
+.blt_Class {
+	position: absolute;
+	width: 29.995px;
+	height: 18.292px;
+	left: 357.006px;
+	top: 49.054px;
+	overflow: visible;
+}
+.blu_Class {
+	fill: rgba(8,12,43,1);
+}
+.blu {
+	overflow: visible;
+	position: absolute;
+	width: 18.292px;
+	height: 16.168px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,12.7655,1.0622) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.blv_Class {
+	fill: rgba(8,12,43,1);
+}
+.blv {
+	position: absolute;
+	overflow: visible;
+	width: 22.047px;
+	height: 7.953px;
+	left: 0px;
+	top: 5.169px;
+}
+.blw_Class {
+	position: absolute;
+	width: 29.995px;
+	height: 18.292px;
+	left: 149.006px;
+	top: 48.699px;
+	overflow: visible;
+}
+.blx_Class {
+	fill: rgba(8,12,43,1);
+}
+.blx {
+	overflow: visible;
+	position: absolute;
+	width: 18.292px;
+	height: 16.168px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,12.7655,1.0622) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.bly_Class {
+	fill: rgba(8,12,43,1);
+}
+.bly {
+	position: absolute;
+	overflow: visible;
+	width: 22.047px;
+	height: 7.953px;
+	left: 0px;
+	top: 5.169px;
+}
+.blz_Class {
+	position: absolute;
+	width: 119px;
+	height: 115px;
+	left: 626px;
+	top: 1px;
+	overflow: visible;
+}
+.bma_Class {
+	position: absolute;
+	width: 118px;
+	height: 116px;
+	left: 836px;
+	top: 0px;
+	overflow: visible;
+}
+.bmb_Class {
+	position: absolute;
+	width: 119px;
+	height: 115px;
+	left: 416px;
+	top: 1px;
+	overflow: visible;
+}
+.bmc_Class {
+	border: 0;
+	left: 168px;
+	top: 3178.522px;
+	position: absolute;
+	overflow: visible;
+	width: 788px;
+	height: 343px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(8,12,43,1);
+}
+.bmd_Class {
+	position: absolute;
+	width: 610px;
+	height: 343px;
+	left: 985px;
+	top: 3179px;
+	overflow: visible;
+}
+.bme_Class {
+	fill: rgba(254,255,255,1);
+}
+.bme {
+	position: absolute;
+	overflow: visible;
+	width: 610px;
+	height: 343px;
+	left: 0px;
+	top: 0px;
+}
+.bmf_Class {
+	position: absolute;
+	width: 584px;
+	height: 295px;
+	left: 13px;
+	top: 24px;
+	overflow: visible;
+}
+.bmg_Class {
+	position: absolute;
+	width: 584px;
+	height: 295px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bmh_Class {
+	fill: rgba(254,255,255,1);
+}
+.bmh {
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	height: 28px;
+	left: 527px;
+	top: 9px;
+}
+.bmi_Class {
+	border: 0;
+	left: 163px;
+	top: 2398px;
+	position: absolute;
+	overflow: visible;
+	width: 259px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Krona One;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	color: rgba(247,252,247,1);
+}
+.bmj_Class {
+	fill: rgba(67,52,183,1);
+}
+.bmj {
+	position: absolute;
+	overflow: visible;
+	width: 517px;
+	height: 473px;
+	left: 142px;
+	top: 2520px;
+}
+.bmk_Class {
+	fill: rgba(247,252,247,1);
+}
+.bmk {
+	position: absolute;
+	overflow: visible;
+	width: 517px;
+	height: 473px;
+	left: 100px;
+	top: 2485px;
+}
+.bml_Class {
+	border: 0;
+	left: 305px;
+	top: 2548px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(8,12,43,1);
+}
+.bmm_Class {
+	border: 0;
+	left: 157px;
+	top: 2655px;
+	position: absolute;
+	overflow: visible;
+	width: 404px;
+	height: 247px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(8,12,43,1);
+}
+.bmn_Class {
+	position: absolute;
+	width: 99.191px;
+	height: 98.802px;
+	left: 174.905px;
+	top: 2536px;
+	overflow: visible;
+}
+.bmo_Class {
+	fill: rgba(255,230,122,1);
+}
+.bmo {
+	position: absolute;
+	overflow: visible;
+	width: 99.191px;
+	height: 98.802px;
+	left: 0px;
+	top: 0px;
+}
+.bmp_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bmp {
+	overflow: visible;
+	position: absolute;
+	width: 73.609px;
+	height: 66.604px;
+	left: 13.809px;
+	top: 15.543px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bmq_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.bmq {
+	overflow: visible;
+	position: absolute;
+	width: 73.616px;
+	height: 67.939px;
+	left: 13.809px;
+	top: 15.634px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bmr_Class {
+	position: absolute;
+	width: 101px;
+	height: 101px;
+	left: 174.001px;
+	top: 2535px;
+	overflow: visible;
+}
+.bms_Class {
+	position: absolute;
+	width: 101px;
+	height: 101px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bmt_Class {
+	fill: rgba(8,12,43,1);
+}
+.bmt {
+	overflow: visible;
+	position: absolute;
+	width: 52.304px;
+	height: 34.418px;
+	left: 115.78px;
+	top: 2502.804px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bmu_Class {
+	fill: rgba(255,230,122,1);
+}
+.bmu {
+	position: absolute;
+	overflow: visible;
+	width: 943px;
+	height: 1279px;
+	left: 757px;
+	top: 1711px;
+}
+.bmv_Class {
+	fill: rgba(247,252,247,1);
+}
+.bmv {
+	overflow: visible;
+	position: absolute;
+	width: 943px;
+	height: 1279px;
+	left: 722px;
+	top: 1676px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bmw_Class {
+	border: 0;
+	left: 801px;
+	top: 1716px;
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(8,12,43,1);
+}
+.bmx_Class {
+	border: 0;
+	left: 801px;
+	top: 1774px;
+	position: absolute;
+	overflow: visible;
+	width: 786px;
+	height: 53px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(8,12,43,1);
+}
+.bmy_Class {
+	position: absolute;
+	width: 784.365px;
+	height: 1048px;
+	left: 801.636px;
+	top: 1857px;
+	overflow: visible;
+}
+.bmz_Class {
+	fill: rgba(8,12,43,1);
+}
+.bmz {
+	overflow: visible;
+	position: absolute;
+	width: 784.365px;
+	height: 1048px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.bna_Class {
+	position: absolute;
+	width: 357px;
+	height: 976px;
+	left: 397.554px;
+	top: 19.606px;
+	overflow: visible;
+}
+.bnb_Class {
+	fill: rgba(8,12,43,1);
+}
+.bnb {
+	position: absolute;
+	overflow: visible;
+	width: 778.682px;
+	height: 31px;
+	left: 5.683px;
+	top: 966.606px;
+}
+.bnd_Class {
+	fill: url(#bnd);
+}
+.bnd {
+	position: absolute;
+	overflow: visible;
+	width: 380.257px;
+	height: 30px;
+	left: 385.925px;
+	top: 936.606px;
+}
+.bne_Class {
+	position: absolute;
+	width: 355px;
+	height: 895.82px;
+	left: 30.925px;
+	top: 19.606px;
+	overflow: visible;
+}
+.bnf_Class {
+	fill: rgba(67,52,183,1);
+}
+.bnf {
+	position: absolute;
+	overflow: visible;
+	width: 1565px;
+	height: 1137px;
+	left: 135px;
+	top: 5136px;
+}
+.bng_Class {
+	fill: rgba(255,230,122,1);
+}
+.bng {
+	position: absolute;
+	overflow: visible;
+	width: 1565px;
+	height: 1137px;
+	left: 100px;
+	top: 5101px;
+}
+.bnh_Class {
+	border: 0;
+	left: 157px;
+	top: 5151px;
+	position: absolute;
+	overflow: visible;
+	width: 680px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(8,12,43,1);
+}
+.bni_Class {
+	border: 0;
+	left: 157px;
+	top: 5211px;
+	position: absolute;
+	overflow: visible;
+	width: 1446px;
+	height: 27px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(8,12,43,1);
+}
+.bnj_Class {
+	position: absolute;
+	width: 1445px;
+	height: 920px;
+	left: 157px;
+	top: 5268px;
+	overflow: visible;
+}
+.bnk_Class {
+	position: absolute;
+	width: 608px;
+	height: 415px;
+	left: 0px;
+	top: 504px;
+	overflow: visible;
+}
+.bnl_Class {
+	position: absolute;
+	width: 871px;
+	height: 474px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bnm_Class {
+	position: absolute;
+	width: 238px;
+	height: 414px;
+	left: 627px;
+	top: 506px;
+	overflow: visible;
+}
+.bnn_Class {
+	position: absolute;
+	width: 561px;
+	height: 413px;
+	left: 884px;
+	top: 506px;
+	overflow: visible;
+}
+.bno_Class {
+	position: absolute;
+	width: 549px;
+	height: 474px;
+	left: 896px;
+	top: 0px;
+	overflow: visible;
+}
+.bnp_Class {
+	position: absolute;
+	width: 1800px;
+	height: 93px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bnq_Class {
+	position: absolute;
+	width: 1800px;
+	height: 93px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bnr_Class {
+	fill: rgba(255,230,122,1);
+}
+.bnr {
+	position: absolute;
+	overflow: visible;
+	width: 1800px;
+	height: 93px;
+	left: 0px;
+	top: 0px;
+}
+.bns_Class {
+	border: 0;
+	left: 1078px;
+	top: 31px;
+	position: absolute;
+	overflow: visible;
+	width: 669px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(8,12,43,1);
+}
+.bnt_Class {
+	position: absolute;
+	width: 65.943px;
+	height: 66.501px;
+	left: 100px;
+	top: 12.813px;
+	overflow: visible;
+}
+.bnu_Class {
+	fill: rgba(67,52,183,1);
+}
+.bnu {
+	position: absolute;
+	overflow: visible;
+	width: 62.337px;
+	height: 62.337px;
+	left: 3.606px;
+	top: 4.165px;
+}
+.bnv_Class {
+	position: absolute;
+	width: 61.462px;
+	height: 61.462px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.bnx_Class {
+	fill: url(#bnx);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.bnx {
+	overflow: visible;
+	position: absolute;
+	width: 464.801px;
+	height: 18.258px;
+	left: 215.641px;
+	top: 37.435px;
+	transform: matrix(1,0,0,1,0,0);
+}
