@@ -19,7 +19,7 @@
 
 
 }
-.Selected_Works_3_-_BeeZr_Class {
+#Selected_Works_3_-_BeeZr {
 	position: absolute;
 	width: 1800px;
 	height: 6868px;
@@ -36,28 +36,28 @@
 	--web-refresh-for-changes: true;
 	--web-enable-deep-linking: true;
 }
-.cnn_Class {
+#bnp {
 	border: 0;
-	left: 204px;
-	top: 343px;
+	left: 221px;
+	top: 351px;
 	position: absolute;
 	overflow: visible;
-	width: 437px;
+	width: 403px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: Krona One;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 56px;
+	font-size: 35px;
 	color: rgba(247,252,247,1);
 }
-.cno_Class {
+#bnq {
 	border: 0;
-	left: 244px;
-	top: 212px;
+	left: 100px;
+	top: 193px;
 	position: absolute;
 	overflow: visible;
-	width: 601px;
+	width: 889px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: Krona One;
@@ -66,7 +66,7 @@
 	font-size: 86px;
 	color: rgba(247,252,247,1);
 }
-.cnp_Class {
+#bnr {
 	border: 0;
 	left: 100px;
 	top: 410px;
@@ -81,25 +81,25 @@
 	font-size: 26px;
 	color: rgba(247,252,247,1);
 }
-.cnq_Class {
+#bns {
 	border: 0;
-	left: 189px;
-	top: 3356px;
+	left: 207px;
+	top: 3364px;
 	position: absolute;
 	overflow: visible;
-	width: 393px;
+	width: 357px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: Krona One;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 56px;
+	font-size: 35px;
 	color: rgba(247,252,247,1);
 }
-.cnr_Class {
+#bnt {
 	fill: rgba(67,52,183,1);
 }
-.cnr {
+.bnt {
 	position: absolute;
 	overflow: visible;
 	width: 517px;
@@ -107,10 +107,10 @@
 	left: 135px;
 	top: 2726px;
 }
-.cns_Class {
+#bnu {
 	fill: rgba(247,252,247,1);
 }
-.cns {
+.bnu {
 	position: absolute;
 	overflow: visible;
 	width: 517px;
@@ -118,7 +118,7 @@
 	left: 100px;
 	top: 2691px;
 }
-.cnt_Class {
+#bnv {
 	border: 0;
 	left: 305px;
 	top: 2746px;
@@ -133,7 +133,7 @@
 	font-size: 22px;
 	color: rgba(8,12,43,1);
 }
-.cnu_Class {
+#bnw {
 	border: 0;
 	left: 157px;
 	top: 2853px;
@@ -148,7 +148,7 @@
 	font-size: 22px;
 	color: rgba(8,12,43,1);
 }
-.cnv_Class {
+#bnx {
 	position: absolute;
 	width: 101px;
 	height: 101px;
@@ -156,7 +156,7 @@
 	top: 2733px;
 	overflow: visible;
 }
-.cnw_Class {
+#bny {
 	position: absolute;
 	width: 101px;
 	height: 101px;
@@ -164,10 +164,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.cnx_Class {
+#bnz {
 	fill: rgba(8,12,43,1);
 }
-.cnx {
+.bnz {
 	overflow: visible;
 	position: absolute;
 	width: 52.304px;
@@ -176,25 +176,10 @@
 	top: 2708.804px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.cny_Class {
+#boa {
 	border: 0;
-	left: 163px;
-	top: 2604px;
-	position: absolute;
-	overflow: visible;
-	width: 259px;
-	white-space: nowrap;
-	text-align: center;
-	font-family: Krona One;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 56px;
-	color: rgba(247,252,247,1);
-}
-.cnz_Class {
-	border: 0;
-	left: 166px;
-	top: 1608px;
+	left: 172px;
+	top: 2612px;
 	position: absolute;
 	overflow: visible;
 	width: 241px;
@@ -203,13 +188,28 @@
 	font-family: Krona One;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 56px;
+	font-size: 35px;
 	color: rgba(247,252,247,1);
 }
-.coa_Class {
+#bob {
+	border: 0;
+	left: 170px;
+	top: 1616px;
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Krona One;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(247,252,247,1);
+}
+#boc {
 	fill: rgba(67,52,183,1);
 }
-.coa {
+.boc {
 	position: absolute;
 	overflow: visible;
 	width: 1565px;
@@ -217,10 +217,10 @@
 	left: 135px;
 	top: 4347px;
 }
-.cob_Class {
+#bod {
 	fill: rgba(247,252,247,1);
 }
-.cob {
+.bod {
 	position: absolute;
 	overflow: visible;
 	width: 1565px;
@@ -228,7 +228,7 @@
 	left: 100px;
 	top: 4312px;
 }
-.coc_Class {
+#boe {
 	border: 0;
 	left: 150px;
 	top: 4362px;
@@ -243,7 +243,7 @@
 	font-size: 32px;
 	color: rgba(8,12,43,1);
 }
-.cod_Class {
+#bof {
 	border: 0;
 	left: 150px;
 	top: 5051px;
@@ -258,7 +258,7 @@
 	font-size: 32px;
 	color: rgba(8,12,43,1);
 }
-.coe_Class {
+#bog {
 	border: 0;
 	left: 150px;
 	top: 4623px;
@@ -273,40 +273,40 @@
 	font-size: 32px;
 	color: rgba(8,12,43,1);
 }
-.cof_Class {
+#boh {
 	border: 0;
-	left: 212px;
-	top: 4225px;
+	left: 230px;
+	top: 4233px;
 	position: absolute;
 	overflow: visible;
-	width: 471px;
+	width: 435px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: Krona One;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 56px;
+	font-size: 35px;
 	color: rgba(247,252,247,1);
 }
-.cog_Class {
+#boi {
 	border: 0;
-	left: 237px;
-	top: 5373px;
+	left: 253px;
+	top: 5381px;
 	position: absolute;
 	overflow: visible;
-	width: 543px;
+	width: 511px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: Krona One;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 56px;
+	font-size: 35px;
 	color: rgba(247,252,247,1);
 }
-.coh_Class {
+#boj {
 	fill: rgba(247,252,247,1);
 }
-.coh {
+.boj {
 	position: absolute;
 	overflow: visible;
 	width: 1565px;
@@ -314,10 +314,10 @@
 	left: 135px;
 	top: 3478px;
 }
-.coi_Class {
+#bok {
 	fill: rgba(255,230,122,1);
 }
-.coi {
+.bok {
 	overflow: visible;
 	position: absolute;
 	width: 1565px;
@@ -326,7 +326,7 @@
 	top: 3442.955px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.coj_Class {
+#bol {
 	border: 0;
 	left: 168px;
 	top: 3491.478px;
@@ -341,7 +341,7 @@
 	font-size: 32px;
 	color: rgba(8,12,43,1);
 }
-.cok_Class {
+#bom {
 	position: absolute;
 	width: 610px;
 	height: 343px;
@@ -349,10 +349,10 @@
 	top: 3494px;
 	overflow: visible;
 }
-.col_Class {
+#bon {
 	fill: rgba(255,255,255,1);
 }
-.col {
+.bon {
 	position: absolute;
 	overflow: visible;
 	width: 610px;
@@ -360,7 +360,7 @@
 	left: 0px;
 	top: 0px;
 }
-.com_Class {
+#boo {
 	position: absolute;
 	width: 588px;
 	height: 228px;
@@ -368,7 +368,7 @@
 	top: 57.478px;
 	overflow: visible;
 }
-.con_Class {
+#bop {
 	position: absolute;
 	width: 588px;
 	height: 187px;
@@ -376,7 +376,7 @@
 	top: 41px;
 	overflow: visible;
 }
-.coo_Class {
+#boq {
 	border: 0;
 	left: 0px;
 	top: 0px;
@@ -391,7 +391,7 @@
 	font-size: 22px;
 	color: rgba(97,97,98,1);
 }
-.cop_Class {
+#bor {
 	position: absolute;
 	width: 1382.454px;
 	height: 187.083px;
@@ -399,10 +399,10 @@
 	top: 3889.918px;
 	overflow: visible;
 }
-.coq_Class {
+#bos {
 	fill: rgba(8,12,43,1);
 }
-.coq {
+.bos {
 	overflow: visible;
 	position: absolute;
 	width: 140.096px;
@@ -411,10 +411,10 @@
 	top: 0.374px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.cor_Class {
+#bot {
 	fill: rgba(8,12,43,1);
 }
-.cor {
+.bot {
 	overflow: visible;
 	position: absolute;
 	width: 89.122px;
@@ -423,10 +423,10 @@
 	top: 0.374px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.cos_Class {
+#bou {
 	fill: rgba(8,12,43,1);
 }
-.cos {
+.bou {
 	overflow: visible;
 	position: absolute;
 	width: 126.016px;
@@ -435,10 +435,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.cot_Class {
+#bov {
 	fill: rgba(8,12,43,1);
 }
-.cot {
+.bov {
 	overflow: visible;
 	position: absolute;
 	width: 130.02px;
@@ -447,10 +447,10 @@
 	top: 0.374px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.cou_Class {
+#bow {
 	fill: rgba(8,12,43,1);
 }
-.cou {
+.bow {
 	overflow: visible;
 	position: absolute;
 	width: 124.113px;
@@ -459,10 +459,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.cov_Class {
+#box {
 	fill: rgba(8,12,43,1);
 }
-.cov {
+.box {
 	overflow: visible;
 	position: absolute;
 	width: 110.814px;
@@ -471,10 +471,10 @@
 	top: 0.374px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.cow_Class {
+#boy {
 	fill: rgba(8,12,43,1);
 }
-.cow {
+.boy {
 	overflow: visible;
 	position: absolute;
 	width: 79.904px;
@@ -483,7 +483,7 @@
 	top: 0.374px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.cox_Class {
+#boz {
 	position: absolute;
 	width: 1373px;
 	height: 115.522px;
@@ -491,7 +491,7 @@
 	top: 71.561px;
 	overflow: visible;
 }
-.coy_Class {
+#bpa {
 	position: absolute;
 	width: 113px;
 	height: 109px;
@@ -499,11 +499,11 @@
 	top: 6.522px;
 	overflow: visible;
 }
-.coz_Class {
+#bpb {
 	filter: blur(5px);
 	fill: rgba(8,12,43,1);
 }
-.coz {
+.bpb {
 	position: absolute;
 	overflow: visible;
 	width: 143px;
@@ -511,7 +511,7 @@
 	left: 0px;
 	top: 0px;
 }
-.cpa_Class {
+#bpc {
 	position: absolute;
 	width: 113px;
 	height: 109px;
@@ -519,11 +519,11 @@
 	top: 6.522px;
 	overflow: visible;
 }
-.cpb_Class {
+#bpd {
 	filter: blur(5px);
 	fill: rgba(8,12,43,1);
 }
-.cpb {
+.bpd {
 	position: absolute;
 	overflow: visible;
 	width: 143px;
@@ -531,7 +531,7 @@
 	left: 0px;
 	top: 0px;
 }
-.cpc_Class {
+#bpe {
 	position: absolute;
 	width: 113px;
 	height: 109px;
@@ -539,11 +539,11 @@
 	top: 6.522px;
 	overflow: visible;
 }
-.cpd_Class {
+#bpf {
 	filter: blur(5px);
 	fill: rgba(8,12,43,1);
 }
-.cpd {
+.bpf {
 	position: absolute;
 	overflow: visible;
 	width: 143px;
@@ -551,7 +551,7 @@
 	left: 0px;
 	top: 0px;
 }
-.cpe_Class {
+#bpg {
 	position: absolute;
 	width: 113px;
 	height: 109px;
@@ -559,11 +559,11 @@
 	top: 6.522px;
 	overflow: visible;
 }
-.cpf_Class {
+#bph {
 	filter: blur(5px);
 	fill: rgba(8,12,43,1);
 }
-.cpf {
+.bph {
 	position: absolute;
 	overflow: visible;
 	width: 143px;
@@ -571,7 +571,7 @@
 	left: 0px;
 	top: 0px;
 }
-.cpg_Class {
+#bpi {
 	position: absolute;
 	width: 113px;
 	height: 109px;
@@ -579,11 +579,11 @@
 	top: 6.522px;
 	overflow: visible;
 }
-.cph_Class {
+#bpj {
 	filter: blur(5px);
 	fill: rgba(8,12,43,1);
 }
-.cph {
+.bpj {
 	position: absolute;
 	overflow: visible;
 	width: 143px;
@@ -591,7 +591,7 @@
 	left: 0px;
 	top: 0px;
 }
-.cpi_Class {
+#bpk {
 	position: absolute;
 	width: 29.995px;
 	height: 18.292px;
@@ -599,10 +599,10 @@
 	top: 49.054px;
 	overflow: visible;
 }
-.cpj_Class {
+#bpl {
 	fill: rgba(8,12,43,1);
 }
-.cpj {
+.bpl {
 	overflow: visible;
 	position: absolute;
 	width: 18.292px;
@@ -612,10 +612,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cpk_Class {
+#bpm {
 	fill: rgba(8,12,43,1);
 }
-.cpk {
+.bpm {
 	position: absolute;
 	overflow: visible;
 	width: 22.047px;
@@ -623,7 +623,7 @@
 	left: 0px;
 	top: 5.169px;
 }
-.cpl_Class {
+#bpn {
 	position: absolute;
 	width: 113px;
 	height: 109px;
@@ -631,11 +631,11 @@
 	top: 6.522px;
 	overflow: visible;
 }
-.cpm_Class {
+#bpo {
 	filter: blur(5px);
 	fill: rgba(8,12,43,1);
 }
-.cpm {
+.bpo {
 	position: absolute;
 	overflow: visible;
 	width: 143px;
@@ -643,7 +643,7 @@
 	left: 0px;
 	top: 0px;
 }
-.cpn_Class {
+#bpp {
 	position: absolute;
 	width: 113px;
 	height: 109px;
@@ -651,11 +651,11 @@
 	top: 6.522px;
 	overflow: visible;
 }
-.cpo_Class {
+#bpq {
 	filter: blur(5px);
 	fill: rgba(8,12,43,1);
 }
-.cpo {
+.bpq {
 	position: absolute;
 	overflow: visible;
 	width: 143px;
@@ -663,7 +663,7 @@
 	left: 0px;
 	top: 0px;
 }
-.cpp_Class {
+#bpr {
 	position: absolute;
 	width: 29.995px;
 	height: 18.292px;
@@ -671,10 +671,10 @@
 	top: 49.054px;
 	overflow: visible;
 }
-.cpq_Class {
+#bps {
 	fill: rgba(8,12,43,1);
 }
-.cpq {
+.bps {
 	overflow: visible;
 	position: absolute;
 	width: 18.292px;
@@ -684,10 +684,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cpr_Class {
+#bpt {
 	fill: rgba(8,12,43,1);
 }
-.cpr {
+.bpt {
 	position: absolute;
 	overflow: visible;
 	width: 22.047px;
@@ -695,7 +695,7 @@
 	left: 0px;
 	top: 5.169px;
 }
-.cps_Class {
+#bpu {
 	position: absolute;
 	width: 29.995px;
 	height: 18.292px;
@@ -703,10 +703,10 @@
 	top: 49.054px;
 	overflow: visible;
 }
-.cpt_Class {
+#bpv {
 	fill: rgba(8,12,43,1);
 }
-.cpt {
+.bpv {
 	overflow: visible;
 	position: absolute;
 	width: 18.292px;
@@ -716,10 +716,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cpu_Class {
+#bpw {
 	fill: rgba(8,12,43,1);
 }
-.cpu {
+.bpw {
 	position: absolute;
 	overflow: visible;
 	width: 22.047px;
@@ -727,7 +727,7 @@
 	left: 0px;
 	top: 5.169px;
 }
-.cpv_Class {
+#bpx {
 	position: absolute;
 	width: 29.995px;
 	height: 18.292px;
@@ -735,10 +735,10 @@
 	top: 49.054px;
 	overflow: visible;
 }
-.cpw_Class {
+#bpy {
 	fill: rgba(8,12,43,1);
 }
-.cpw {
+.bpy {
 	overflow: visible;
 	position: absolute;
 	width: 18.292px;
@@ -748,10 +748,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cpx_Class {
+#bpz {
 	fill: rgba(8,12,43,1);
 }
-.cpx {
+.bpz {
 	position: absolute;
 	overflow: visible;
 	width: 22.047px;
@@ -759,7 +759,7 @@
 	left: 0px;
 	top: 5.169px;
 }
-.cpy_Class {
+#bqa {
 	position: absolute;
 	width: 29.995px;
 	height: 18.292px;
@@ -767,10 +767,10 @@
 	top: 49.054px;
 	overflow: visible;
 }
-.cpz_Class {
+#bqb {
 	fill: rgba(8,12,43,1);
 }
-.cpz {
+.bqb {
 	overflow: visible;
 	position: absolute;
 	width: 18.292px;
@@ -780,10 +780,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cqa_Class {
+#bqc {
 	fill: rgba(8,12,43,1);
 }
-.cqa {
+.bqc {
 	position: absolute;
 	overflow: visible;
 	width: 22.047px;
@@ -791,7 +791,7 @@
 	left: 0px;
 	top: 5.169px;
 }
-.cqb_Class {
+#bqd {
 	position: absolute;
 	width: 29.995px;
 	height: 18.292px;
@@ -799,10 +799,10 @@
 	top: 48.699px;
 	overflow: visible;
 }
-.cqc_Class {
+#bqe {
 	fill: rgba(8,12,43,1);
 }
-.cqc {
+.bqe {
 	overflow: visible;
 	position: absolute;
 	width: 18.292px;
@@ -812,10 +812,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cqd_Class {
+#bqf {
 	fill: rgba(8,12,43,1);
 }
-.cqd {
+.bqf {
 	position: absolute;
 	overflow: visible;
 	width: 22.047px;
@@ -823,7 +823,7 @@
 	left: 0px;
 	top: 5.169px;
 }
-.cqe_Class {
+#bqg {
 	position: absolute;
 	width: 119px;
 	height: 115px;
@@ -831,10 +831,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.cqf_Class {
+#bqh {
 	fill: rgba(255,255,255,1);
 }
-.cqf {
+.bqh {
 	position: absolute;
 	overflow: visible;
 	width: 119px;
@@ -842,7 +842,7 @@
 	left: 0px;
 	top: 0px;
 }
-.cqg_Class {
+#bqi {
 	position: absolute;
 	width: 90.997px;
 	height: 84.216px;
@@ -850,7 +850,7 @@
 	top: 15.392px;
 	overflow: visible;
 }
-.cqh_Class {
+#bqj {
 	position: absolute;
 	width: 119px;
 	height: 115px;
@@ -858,7 +858,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.cqi_Class {
+#bqk {
 	position: absolute;
 	width: 119px;
 	height: 115px;
@@ -866,10 +866,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.cqj_Class {
+#bql {
 	fill: rgba(255,255,255,1);
 }
-.cqj {
+.bql {
 	position: absolute;
 	overflow: visible;
 	width: 119px;
@@ -877,7 +877,7 @@
 	left: 0px;
 	top: 0px;
 }
-.cqk_Class {
+#bqm {
 	position: absolute;
 	width: 78px;
 	height: 78px;
@@ -885,7 +885,7 @@
 	top: 19px;
 	overflow: visible;
 }
-.cql_Class {
+#bqn {
 	position: absolute;
 	width: 119px;
 	height: 115px;
@@ -893,10 +893,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.cqm_Class {
+#bqo {
 	fill: rgba(255,255,255,1);
 }
-.cqm {
+.bqo {
 	position: absolute;
 	overflow: visible;
 	width: 119px;
@@ -904,7 +904,7 @@
 	left: 0px;
 	top: 0px;
 }
-.cqn_Class {
+#bqp {
 	position: absolute;
 	width: 119px;
 	height: 115px;
@@ -912,7 +912,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.cqo_Class {
+#bqq {
 	position: absolute;
 	width: 119px;
 	height: 115px;
@@ -920,10 +920,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.cqp_Class {
+#bqr {
 	fill: rgba(255,255,255,1);
 }
-.cqp {
+.bqr {
 	position: absolute;
 	overflow: visible;
 	width: 119px;
@@ -931,7 +931,7 @@
 	left: 0px;
 	top: 0px;
 }
-.cqq_Class {
+#bqs {
 	position: absolute;
 	width: 119px;
 	height: 115px;
@@ -939,7 +939,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.cqr_Class {
+#bqt {
 	position: absolute;
 	width: 119px;
 	height: 115px;
@@ -947,10 +947,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.cqs_Class {
+#bqu {
 	fill: rgba(255,255,255,1);
 }
-.cqs {
+.bqu {
 	position: absolute;
 	overflow: visible;
 	width: 119px;
@@ -958,7 +958,7 @@
 	left: 0px;
 	top: 0px;
 }
-.cqt_Class {
+#bqv {
 	position: absolute;
 	width: 96px;
 	height: 90px;
@@ -966,7 +966,7 @@
 	top: 13px;
 	overflow: visible;
 }
-.cqu_Class {
+#bqw {
 	position: absolute;
 	width: 119px;
 	height: 115px;
@@ -974,10 +974,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.cqv_Class {
+#bqx {
 	fill: rgba(255,230,122,1);
 }
-.cqv {
+.bqx {
 	position: absolute;
 	overflow: visible;
 	width: 1565px;
@@ -985,10 +985,10 @@
 	left: 135px;
 	top: 685px;
 }
-.cqw_Class {
+#bqy {
 	fill: rgba(247,252,247,1);
 }
-.cqw {
+.bqy {
 	position: absolute;
 	overflow: visible;
 	width: 1565px;
@@ -996,7 +996,7 @@
 	left: 100px;
 	top: 651px;
 }
-.cqx_Class {
+#bqz {
 	position: absolute;
 	width: 1213px;
 	height: 748.45px;
@@ -1004,7 +1004,7 @@
 	top: 696.775px;
 	overflow: visible;
 }
-.cqy_Class {
+#bra {
 	position: absolute;
 	width: 952px;
 	height: 734px;
@@ -1012,7 +1012,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.cqz_Class {
+#brb {
 	position: absolute;
 	width: 354.433px;
 	height: 443.557px;
@@ -1020,7 +1020,7 @@
 	top: 266.348px;
 	overflow: visible;
 }
-.cra_Class {
+#brc {
 	fill: rgba(255,255,255,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1029,7 +1029,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.cra {
+.brc {
 	width: 342px;
 	height: 419.193px;
 	position: absolute;
@@ -1037,7 +1037,7 @@
 	transform: translate(8734.763px, -3155.796px) matrix(1,0,0,1,-8730,3167.5869) rotate(0deg);
 	transform-origin: center;
 }
-.crb_Class {
+#brd {
 	position: absolute;
 	width: 342px;
 	height: 403px;
@@ -1045,7 +1045,7 @@
 	top: 19.203px;
 	overflow: visible;
 }
-.crc_Class {
+#bre {
 	position: absolute;
 	width: 354.433px;
 	height: 443.557px;
@@ -1053,7 +1053,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.crd_Class {
+#brf {
 	position: absolute;
 	width: 186.669px;
 	height: 390.102px;
@@ -1061,10 +1061,10 @@
 	top: 358.348px;
 	overflow: visible;
 }
-.cre_Class {
+#brg {
 	fill: rgba(24,62,98,1);
 }
-.cre {
+.brg {
 	position: absolute;
 	overflow: visible;
 	width: 160.63px;
@@ -1072,7 +1072,7 @@
 	left: 13.901px;
 	top: 7.455px;
 }
-.crf_Class {
+#brh {
 	position: absolute;
 	width: 162.393px;
 	height: 350.808px;
@@ -1080,7 +1080,7 @@
 	top: 19.646px;
 	overflow: visible;
 }
-.crg_Class {
+#bri {
 	position: absolute;
 	width: 186.668px;
 	height: 390.102px;
@@ -1088,7 +1088,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.crh_Class {
+#brj {
 	position: absolute;
 	width: 186.668px;
 	height: 390.102px;
@@ -1096,7 +1096,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.cri_Class {
+#brk {
 	position: absolute;
 	width: 124.849px;
 	height: 4.999px;
@@ -1104,10 +1104,10 @@
 	top: 22.727px;
 	overflow: visible;
 }
-.crj_Class {
+#brl {
 	fill: rgba(255,255,255,1);
 }
-.crj {
+.brl {
 	overflow: visible;
 	position: absolute;
 	width: 4.646px;
@@ -1116,10 +1116,10 @@
 	top: 0.176px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.crk_Class {
+#brm {
 	fill: rgba(255,255,255,1);
 }
-.crk {
+.brm {
 	overflow: visible;
 	position: absolute;
 	width: 5.499px;
@@ -1128,10 +1128,10 @@
 	top: 0.375px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.crl_Class {
+#brn {
 	fill: rgba(255,255,255,1);
 }
-.crl {
+.brn {
 	overflow: visible;
 	position: absolute;
 	width: 2.999px;
@@ -1140,10 +1140,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.crm_Class {
+#bro {
 	fill: rgba(255,255,255,1);
 }
-.crm {
+.bro {
 	overflow: visible;
 	position: absolute;
 	width: 12.612px;
@@ -1152,7 +1152,7 @@
 	top: 0.583px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.crn_Class {
+#brp {
 	position: absolute;
 	width: 133.284px;
 	height: 136.886px;
@@ -1160,7 +1160,7 @@
 	top: 689.055px;
 	overflow: visible;
 }
-.cro_Class {
+#brq {
 	position: absolute;
 	width: 133.284px;
 	height: 136.886px;
@@ -1168,10 +1168,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.crp_Class {
+#brr {
 	fill: rgba(67,52,183,1);
 }
-.crp {
+.brr {
 	position: absolute;
 	overflow: visible;
 	width: 1565px;
@@ -1179,10 +1179,10 @@
 	left: 135px;
 	top: 5495px;
 }
-.crq_Class {
+#brs {
 	fill: rgba(255,230,122,1);
 }
-.crq {
+.brs {
 	position: absolute;
 	overflow: visible;
 	width: 1565px;
@@ -1190,7 +1190,7 @@
 	left: 100px;
 	top: 5460px;
 }
-.crr_Class {
+#brt {
 	border: 0;
 	left: 157px;
 	top: 5510px;
@@ -1205,7 +1205,7 @@
 	font-size: 42px;
 	color: rgba(8,12,43,1);
 }
-.crs_Class {
+#bru {
 	border: 0;
 	left: 157px;
 	top: 5570px;
@@ -1220,7 +1220,7 @@
 	font-size: 22px;
 	color: rgba(8,12,43,1);
 }
-.crt_Class {
+#brv {
 	position: absolute;
 	width: 1445px;
 	height: 910px;
@@ -1228,7 +1228,7 @@
 	top: 5687px;
 	overflow: visible;
 }
-.cru_Class {
+#brw {
 	position: absolute;
 	width: 289px;
 	height: 165px;
@@ -1236,7 +1236,7 @@
 	top: 744px;
 	overflow: visible;
 }
-.crv_Class {
+#brx {
 	position: absolute;
 	width: 290px;
 	height: 160px;
@@ -1244,7 +1244,7 @@
 	top: 570px;
 	overflow: visible;
 }
-.crw_Class {
+#bry {
 	position: absolute;
 	width: 348px;
 	height: 197px;
@@ -1252,7 +1252,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.crx_Class {
+#brz {
 	position: absolute;
 	width: 351px;
 	height: 196px;
@@ -1260,7 +1260,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.cry_Class {
+#bsa {
 	position: absolute;
 	width: 351px;
 	height: 197px;
@@ -1268,7 +1268,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.crz_Class {
+#bsb {
 	position: absolute;
 	width: 352px;
 	height: 197px;
@@ -1276,7 +1276,7 @@
 	top: 1px;
 	overflow: visible;
 }
-.csa_Class {
+#bsc {
 	position: absolute;
 	width: 604px;
 	height: 313px;
@@ -1284,7 +1284,7 @@
 	top: 227px;
 	overflow: visible;
 }
-.csb_Class {
+#bsd {
 	position: absolute;
 	width: 247px;
 	height: 338px;
@@ -1292,7 +1292,7 @@
 	top: 571px;
 	overflow: visible;
 }
-.csc_Class {
+#bse {
 	position: absolute;
 	width: 402px;
 	height: 313px;
@@ -1300,7 +1300,7 @@
 	top: 228px;
 	overflow: visible;
 }
-.csd_Class {
+#bsf {
 	position: absolute;
 	width: 402px;
 	height: 313px;
@@ -1308,7 +1308,7 @@
 	top: 227px;
 	overflow: visible;
 }
-.cse_Class {
+#bsg {
 	position: absolute;
 	width: 603px;
 	height: 338px;
@@ -1316,7 +1316,7 @@
 	top: 571px;
 	overflow: visible;
 }
-.csf_Class {
+#bsh {
 	position: absolute;
 	width: 274px;
 	height: 339px;
@@ -1324,10 +1324,10 @@
 	top: 571px;
 	overflow: visible;
 }
-.csg_Class {
+#bsi {
 	fill: rgba(255,255,255,1);
 }
-.csg {
+.bsi {
 	position: absolute;
 	overflow: visible;
 	width: 274px;
@@ -1335,7 +1335,7 @@
 	left: 0px;
 	top: 0px;
 }
-.csh_Class {
+#bsj {
 	position: absolute;
 	width: 259px;
 	height: 317px;
@@ -1343,10 +1343,10 @@
 	top: 11px;
 	overflow: visible;
 }
-.csi_Class {
+#bsk {
 	fill: rgba(255,230,122,1);
 }
-.csi {
+.bsk {
 	position: absolute;
 	overflow: visible;
 	width: 943px;
@@ -1354,10 +1354,10 @@
 	left: 757px;
 	top: 1730px;
 }
-.csj_Class {
+#bsl {
 	fill: rgba(247,252,247,1);
 }
-.csj {
+.bsl {
 	overflow: visible;
 	position: absolute;
 	width: 943px;
@@ -1366,7 +1366,7 @@
 	top: 1695px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.csk_Class {
+#bsm {
 	border: 0;
 	left: 801px;
 	top: 1745px;
@@ -1381,7 +1381,7 @@
 	font-size: 42px;
 	color: rgba(8,12,43,1);
 }
-.csl_Class {
+#bsn {
 	border: 0;
 	left: 801px;
 	top: 1805px;
@@ -1396,22 +1396,22 @@
 	font-size: 22px;
 	color: rgba(8,12,43,1);
 }
-.csm_Class {
+#bso {
 	border: 0;
-	left: 794px;
-	top: 1608px;
+	left: 807px;
+	top: 1616px;
 	position: absolute;
 	overflow: visible;
-	width: 309px;
+	width: 283px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: Krona One;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 56px;
+	font-size: 35px;
 	color: rgba(247,252,247,1);
 }
-.csn_Class {
+#bsp {
 	position: absolute;
 	width: 785px;
 	height: 1289px;
@@ -1419,7 +1419,7 @@
 	top: 1919px;
 	overflow: visible;
 }
-.cso_Class {
+#bsq {
 	position: absolute;
 	width: 185px;
 	height: 400px;
@@ -1427,7 +1427,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.csp_Class {
+#bsr {
 	position: absolute;
 	width: 312px;
 	height: 235px;
@@ -1435,7 +1435,7 @@
 	top: 1054px;
 	overflow: visible;
 }
-.csq_Class {
+#bss {
 	position: absolute;
 	width: 200px;
 	height: 235px;
@@ -1443,7 +1443,7 @@
 	top: 1054px;
 	overflow: visible;
 }
-.csr_Class {
+#bst {
 	position: absolute;
 	width: 382px;
 	height: 493px;
@@ -1451,7 +1451,7 @@
 	top: 344px;
 	overflow: visible;
 }
-.css_Class {
+#bsu {
 	position: absolute;
 	width: 784px;
 	height: 186px;
@@ -1459,7 +1459,7 @@
 	top: 849px;
 	overflow: visible;
 }
-.cst_Class {
+#bsv {
 	position: absolute;
 	width: 185px;
 	height: 313px;
@@ -1467,7 +1467,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.csu_Class {
+#bsw {
 	position: absolute;
 	width: 185px;
 	height: 400px;
@@ -1475,7 +1475,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.csv_Class {
+#bsx {
 	position: absolute;
 	width: 183px;
 	height: 313px;
@@ -1483,7 +1483,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.csw_Class {
+#bsy {
 	position: absolute;
 	width: 222px;
 	height: 112px;
@@ -1491,7 +1491,7 @@
 	top: 1054px;
 	overflow: visible;
 }
-.csx_Class {
+#bsz {
 	position: absolute;
 	width: 220px;
 	height: 111px;
@@ -1499,7 +1499,7 @@
 	top: 1178px;
 	overflow: visible;
 }
-.csy_Class {
+#bta {
 	position: absolute;
 	width: 182px;
 	height: 367px;
@@ -1507,7 +1507,7 @@
 	top: 446px;
 	overflow: visible;
 }
-.csz_Class {
+#btb {
 	position: absolute;
 	width: 189px;
 	height: 370px;
@@ -1515,10 +1515,10 @@
 	top: 444px;
 	overflow: visible;
 }
-.cta_Class {
+#btc {
 	fill: rgba(67,52,183,1);
 }
-.cta {
+.btc {
 	position: absolute;
 	overflow: visible;
 	width: 531px;
@@ -1526,10 +1526,10 @@
 	left: 135px;
 	top: 1729px;
 }
-.ctb_Class {
+#btd {
 	fill: rgba(247,252,247,1);
 }
-.ctb {
+.btd {
 	position: absolute;
 	overflow: visible;
 	width: 531px;
@@ -1537,7 +1537,7 @@
 	left: 100px;
 	top: 1695px;
 }
-.ctc_Class {
+#bte {
 	border: 0;
 	left: 150px;
 	top: 1745px;
@@ -1552,7 +1552,7 @@
 	font-size: 42px;
 	color: rgba(8,12,43,1);
 }
-.ctd_Class {
+#btf {
 	border: 0;
 	left: 150px;
 	top: 1818px;
@@ -1567,7 +1567,7 @@
 	font-size: 42px;
 	color: rgba(8,12,43,1);
 }
-.cte_Class {
+#btg {
 	position: absolute;
 	width: 431px;
 	height: 568px;
@@ -1575,7 +1575,7 @@
 	top: 1888px;
 	overflow: visible;
 }
-.ctf_Class {
+#bth {
 	border: 0;
 	left: 0px;
 	top: 0px;
@@ -1590,7 +1590,7 @@
 	font-size: 42px;
 	color: rgba(8,12,43,1);
 }
-.ctg_Class {
+#bti {
 	position: absolute;
 	width: 431px;
 	height: 26px;
@@ -1598,7 +1598,7 @@
 	top: 260px;
 	overflow: visible;
 }
-.cth_Class {
+#btj {
 	border: 0;
 	left: 30px;
 	top: 0px;
@@ -1615,7 +1615,7 @@
 	font-size: 22px;
 	color: rgba(8,12,43,1);
 }
-.cti_Class {
+#btk {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -1624,10 +1624,10 @@
 	display: none;
 	overflow: visible;
 }
-.ctj_Class {
+#btl {
 	fill: rgba(255,255,255,0);
 }
-.ctj {
+.btl {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -1635,10 +1635,10 @@
 	left: 0px;
 	top: 0px;
 }
-.ctk_Class {
+#btm {
 	fill: rgba(1,113,235,1);
 }
-.ctk {
+.btm {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -1646,7 +1646,7 @@
 	left: 8px;
 	top: 8px;
 }
-.ctl_Class {
+#btn {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -1654,10 +1654,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.ctm_Class {
+#bto {
 	fill: rgba(255,255,255,0);
 }
-.ctm {
+.bto {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -1665,10 +1665,10 @@
 	left: 0px;
 	top: 0px;
 }
-.ctn_Class {
+#btp {
 	fill: rgba(8,12,43,1);
 }
-.ctn {
+.btp {
 	position: absolute;
 	overflow: visible;
 	width: 6px;
@@ -1676,7 +1676,7 @@
 	left: 7px;
 	top: 7px;
 }
-.cto_Class {
+#btq {
 	position: absolute;
 	width: 431px;
 	height: 72px;
@@ -1684,7 +1684,7 @@
 	top: 296px;
 	overflow: visible;
 }
-.ctp_Class {
+#btr {
 	border: 0;
 	left: 30px;
 	top: 0px;
@@ -1701,7 +1701,7 @@
 	font-size: 22px;
 	color: rgba(8,12,43,1);
 }
-.ctq_Class {
+#bts {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -1710,10 +1710,10 @@
 	display: none;
 	overflow: visible;
 }
-.ctr_Class {
+#btt {
 	fill: rgba(255,255,255,0);
 }
-.ctr {
+.btt {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -1721,10 +1721,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cts_Class {
+#btu {
 	fill: rgba(1,113,235,1);
 }
-.cts {
+.btu {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -1732,7 +1732,7 @@
 	left: 8px;
 	top: 8px;
 }
-.ctt_Class {
+#btv {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -1740,10 +1740,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.ctu_Class {
+#btw {
 	fill: rgba(255,255,255,0);
 }
-.ctu {
+.btw {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -1751,10 +1751,10 @@
 	left: 0px;
 	top: 0px;
 }
-.ctv_Class {
+#btx {
 	fill: rgba(8,12,43,1);
 }
-.ctv {
+.btx {
 	position: absolute;
 	overflow: visible;
 	width: 6px;
@@ -1762,7 +1762,7 @@
 	left: 7px;
 	top: 7px;
 }
-.ctw_Class {
+#bty {
 	position: absolute;
 	width: 431px;
 	height: 72px;
@@ -1770,7 +1770,7 @@
 	top: 378px;
 	overflow: visible;
 }
-.ctx_Class {
+#btz {
 	border: 0;
 	left: 30px;
 	top: 0px;
@@ -1787,7 +1787,7 @@
 	font-size: 22px;
 	color: rgba(8,12,43,1);
 }
-.cty_Class {
+#bua {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -1796,10 +1796,10 @@
 	display: none;
 	overflow: visible;
 }
-.ctz_Class {
+#bub {
 	fill: rgba(255,255,255,0);
 }
-.ctz {
+.bub {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -1807,10 +1807,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cua_Class {
+#buc {
 	fill: rgba(1,113,235,1);
 }
-.cua {
+.buc {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -1818,7 +1818,7 @@
 	left: 8px;
 	top: 8px;
 }
-.cub_Class {
+#bud {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -1826,10 +1826,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.cuc_Class {
+#bue {
 	fill: rgba(255,255,255,0);
 }
-.cuc {
+.bue {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -1837,10 +1837,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cud_Class {
+#buf {
 	fill: rgba(8,12,43,1);
 }
-.cud {
+.buf {
 	position: absolute;
 	overflow: visible;
 	width: 6px;
@@ -1848,7 +1848,7 @@
 	left: 7px;
 	top: 7px;
 }
-.cue_Class {
+#bug {
 	position: absolute;
 	width: 431px;
 	height: 49px;
@@ -1856,7 +1856,7 @@
 	top: 201px;
 	overflow: visible;
 }
-.cuf_Class {
+#buh {
 	border: 0;
 	left: 30px;
 	top: 0px;
@@ -1873,7 +1873,7 @@
 	font-size: 22px;
 	color: rgba(8,12,43,1);
 }
-.cug_Class {
+#bui {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -1882,10 +1882,10 @@
 	display: none;
 	overflow: visible;
 }
-.cuh_Class {
+#buj {
 	fill: rgba(255,255,255,0);
 }
-.cuh {
+.buj {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -1893,10 +1893,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cui_Class {
+#buk {
 	fill: rgba(1,113,235,1);
 }
-.cui {
+.buk {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -1904,7 +1904,7 @@
 	left: 8px;
 	top: 8px;
 }
-.cuj_Class {
+#bul {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -1912,10 +1912,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.cuk_Class {
+#bum {
 	fill: rgba(255,255,255,0);
 }
-.cuk {
+.bum {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -1923,10 +1923,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cul_Class {
+#bun {
 	fill: rgba(8,12,43,1);
 }
-.cul {
+.bun {
 	position: absolute;
 	overflow: visible;
 	width: 6px;
@@ -1934,7 +1934,7 @@
 	left: 7px;
 	top: 7px;
 }
-.cum_Class {
+#buo {
 	position: absolute;
 	width: 431px;
 	height: 49px;
@@ -1942,7 +1942,7 @@
 	top: 460px;
 	overflow: visible;
 }
-.cun_Class {
+#bup {
 	border: 0;
 	left: 30px;
 	top: 0px;
@@ -1959,7 +1959,7 @@
 	font-size: 22px;
 	color: rgba(8,12,43,1);
 }
-.cuo_Class {
+#buq {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -1968,10 +1968,10 @@
 	display: none;
 	overflow: visible;
 }
-.cup_Class {
+#bur {
 	fill: rgba(255,255,255,0);
 }
-.cup {
+.bur {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -1979,10 +1979,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cuq_Class {
+#bus {
 	fill: rgba(1,113,235,1);
 }
-.cuq {
+.bus {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -1990,7 +1990,7 @@
 	left: 8px;
 	top: 8px;
 }
-.cur_Class {
+#but {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -1998,10 +1998,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.cus_Class {
+#buu {
 	fill: rgba(255,255,255,0);
 }
-.cus {
+.buu {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -2009,10 +2009,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cut_Class {
+#buv {
 	fill: rgba(8,12,43,1);
 }
-.cut {
+.buv {
 	position: absolute;
 	overflow: visible;
 	width: 6px;
@@ -2020,7 +2020,7 @@
 	left: 7px;
 	top: 7px;
 }
-.cuu_Class {
+#buw {
 	position: absolute;
 	width: 431px;
 	height: 49px;
@@ -2028,7 +2028,7 @@
 	top: 142px;
 	overflow: visible;
 }
-.cuv_Class {
+#bux {
 	border: 0;
 	left: 30px;
 	top: 0px;
@@ -2045,7 +2045,7 @@
 	font-size: 22px;
 	color: rgba(8,12,43,1);
 }
-.cuw_Class {
+#buy {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -2054,10 +2054,10 @@
 	display: none;
 	overflow: visible;
 }
-.cux_Class {
+#buz {
 	fill: rgba(255,255,255,0);
 }
-.cux {
+.buz {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -2065,10 +2065,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cuy_Class {
+#bva {
 	fill: rgba(1,113,235,1);
 }
-.cuy {
+.bva {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -2076,7 +2076,7 @@
 	left: 8px;
 	top: 8px;
 }
-.cuz_Class {
+#bvb {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -2084,10 +2084,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.cva_Class {
+#bvc {
 	fill: rgba(255,255,255,0);
 }
-.cva {
+.bvc {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -2095,10 +2095,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cvb_Class {
+#bvd {
 	fill: rgba(8,12,43,1);
 }
-.cvb {
+.bvd {
 	position: absolute;
 	overflow: visible;
 	width: 6px;
@@ -2106,7 +2106,7 @@
 	left: 7px;
 	top: 7px;
 }
-.cvc_Class {
+#bve {
 	position: absolute;
 	width: 431px;
 	height: 72px;
@@ -2114,7 +2114,7 @@
 	top: 60px;
 	overflow: visible;
 }
-.cvd_Class {
+#bvf {
 	border: 0;
 	left: 30px;
 	top: 0px;
@@ -2131,7 +2131,7 @@
 	font-size: 22px;
 	color: rgba(8,12,43,1);
 }
-.cve_Class {
+#bvg {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -2140,10 +2140,10 @@
 	display: none;
 	overflow: visible;
 }
-.cvf_Class {
+#bvh {
 	fill: rgba(255,255,255,0);
 }
-.cvf {
+.bvh {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -2151,10 +2151,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cvg_Class {
+#bvi {
 	fill: rgba(1,113,235,1);
 }
-.cvg {
+.bvi {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -2162,7 +2162,7 @@
 	left: 8px;
 	top: 8px;
 }
-.cvh_Class {
+#bvj {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -2170,10 +2170,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.cvi_Class {
+#bvk {
 	fill: rgba(255,255,255,0);
 }
-.cvi {
+.bvk {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -2181,10 +2181,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cvj_Class {
+#bvl {
 	fill: rgba(8,12,43,1);
 }
-.cvj {
+.bvl {
 	position: absolute;
 	overflow: visible;
 	width: 6px;
@@ -2192,7 +2192,7 @@
 	left: 7px;
 	top: 7px;
 }
-.cvk_Class {
+#bvm {
 	position: absolute;
 	width: 431px;
 	height: 49px;
@@ -2200,7 +2200,7 @@
 	top: 519px;
 	overflow: visible;
 }
-.cvl_Class {
+#bvn {
 	border: 0;
 	left: 30px;
 	top: 0px;
@@ -2217,7 +2217,7 @@
 	font-size: 22px;
 	color: rgba(8,12,43,1);
 }
-.cvm_Class {
+#bvo {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -2226,10 +2226,10 @@
 	display: none;
 	overflow: visible;
 }
-.cvn_Class {
+#bvp {
 	fill: rgba(255,255,255,0);
 }
-.cvn {
+.bvp {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -2237,10 +2237,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cvo_Class {
+#bvq {
 	fill: rgba(1,113,235,1);
 }
-.cvo {
+.bvq {
 	position: absolute;
 	overflow: visible;
 	width: 4px;
@@ -2248,7 +2248,7 @@
 	left: 8px;
 	top: 8px;
 }
-.cvp_Class {
+#bvr {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -2256,10 +2256,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.cvq_Class {
+#bvs {
 	fill: rgba(255,255,255,0);
 }
-.cvq {
+.bvs {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -2267,10 +2267,10 @@
 	left: 0px;
 	top: 0px;
 }
-.cvr_Class {
+#bvt {
 	fill: rgba(8,12,43,1);
 }
-.cvr {
+.bvt {
 	position: absolute;
 	overflow: visible;
 	width: 6px;
@@ -2278,7 +2278,7 @@
 	left: 7px;
 	top: 7px;
 }
-.cvs_Class {
+#bvu {
 	position: absolute;
 	width: 1800px;
 	height: 93px;
@@ -2286,7 +2286,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.cvt_Class {
+#bvv {
 	position: absolute;
 	width: 1800px;
 	height: 93px;
@@ -2294,10 +2294,10 @@
 	top: 0px;
 	overflow: visible;
 }
-.cvu_Class {
+#bvw {
 	fill: rgba(255,230,122,1);
 }
-.cvu {
+.bvw {
 	position: absolute;
 	overflow: visible;
 	width: 1800px;
@@ -2305,13 +2305,17 @@
 	left: 0px;
 	top: 0px;
 }
-.cvv_Class {
+#bvx {
 	border: 0;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 668px;
+	height: 31px;
 	left: 1078px;
 	top: 31px;
-	position: absolute;
 	overflow: visible;
-	width: 669px;
 	white-space: nowrap;
 	text-align: center;
 	font-family: Helvetica Neue;
@@ -2320,7 +2324,7 @@
 	font-size: 26px;
 	color: rgba(8,12,43,1);
 }
-.cvw_Class {
+#bvy {
 	position: absolute;
 	width: 65.943px;
 	height: 66.501px;
@@ -2328,10 +2332,10 @@
 	top: 12.813px;
 	overflow: visible;
 }
-.cvx_Class {
+#bvz {
 	fill: rgba(67,52,183,1);
 }
-.cvx {
+.bvz {
 	position: absolute;
 	overflow: visible;
 	width: 62.337px;
@@ -2339,7 +2343,7 @@
 	left: 3.606px;
 	top: 4.165px;
 }
-.cvy_Class {
+#bwa {
 	position: absolute;
 	width: 61.462px;
 	height: 61.462px;
@@ -2347,8 +2351,8 @@
 	top: 0px;
 	overflow: visible;
 }
-.cwa_Class {
-	fill: url(#cwa);
+#bwc {
+	fill: url(#bwc);
 	stroke: rgba(0,0,0,0);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -2356,7 +2360,7 @@
 	stroke-miterlimit: 10;
 	shape-rendering: auto;
 }
-.cwa {
+.bwc {
 	overflow: visible;
 	position: absolute;
 	width: 464.801px;
